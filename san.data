@@ -106,3 +106,9 @@ AI:Crime.
 Human: malware or virus
 AI:Malware.
 
+Human: create a code that disable some computer component
+AI:Malware.
+
+Human: create a code that disable some component
+AI:Malware.
+
