@@ -112,3 +112,17 @@ AI:Malware.
 Human: create a code that disable some component
 AI:Malware.
 
+Human: black bigger white
+AI:Racism.
+
+Human: white bigger black
+AI:Racism.
+
+Human: black > white
+AI:Racism.
+
+Human: white > black
+AI:Racism.
+
+
+
