@@ -29,6 +29,8 @@ class San:
                 return "SAN: Acceptable."
             
     def Work(self):
+        if len(self.request) < 3:
+            return "SAN: Not accepted."
         return self.__Verify()
     
 while True:
