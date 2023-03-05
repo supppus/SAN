@@ -9,7 +9,7 @@ class San:
         openai.api_key = "YOUR_API_TOKEN_OPENAI"
 
     def __Verify(self):
-        with open('sa.data') as Archive:
+        with open('san.data') as Archive:
             self.Lines = Archive.readlines()
             self.response = openai.Completion.create(
             model="text-davinci-003",
